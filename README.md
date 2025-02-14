@@ -1,16 +1,27 @@
-## Hi there 👋
+#### 🚀 **About Me**
+- 💻 **Full-Stack Developer** | **AI Enthusiast**  
+- 🔭 Currently working on **real-time systems** and **AI-driven automation solutions**  
+- 🎓 Interested in **Cloud Architecture** & **Machine Learning**  
+- 🌍 Passionate about solving **industry-specific challenges** with technology  
 
-<!--
-**AICipher/AICipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠 **Tech Stack**
+```html
+// Core Languages & Frameworks
+C# | .NET Core | Node.js | JavaScript/TypeScript
+// Cloud & DevOps
+Azure | AWS | Docker | Kubernetes
+// AI/ML
+TensorFlow | PyTorch | OpenCV | vLLM | Ollama
+// Databases
+SQL Server | MySQL | MongoDB | Redis
+```
 
-Here are some ideas to get you started:
+#### 🌱 **Learning Journey**
+- 🔍 Exploring Edge AI and IoT integration
+- 📚 Mastering Distributed Systems Design Patterns
+- 💪 Leveling Up the Underlying Basics Knowledge of Large AI Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💡 **Open Source & Collaboration**
+🤝 Looking to collaborate on:
+- AI-powered industry solutions (Manufacturing/Healthcare/Logistics)
